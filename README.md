@@ -40,8 +40,7 @@ Frontend application integrating real-time API data with filtering and modular a
 ## 📫 Connect With Me
 📧 patilsarthak53038@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/sarthak-patil-a8a792373/  
-💻 GitHub: https://github.com/Sarthakpatil3412  
-
+💻 GitHub: https://github.com/SarthakPatil-projects
 ---
 
 ⭐ Always building. Always learning.
