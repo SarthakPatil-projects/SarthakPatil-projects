@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋 I'm Sarthak Patil
 
-<!--
-**SarthakPatil-projects/SarthakPatil-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Backend-focused B.Tech IT student  
+💻 Passionate about building scalable systems  
+🚀 Continuously learning and improving every day  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+**Languages:**  
+C • C++ • Python  
+
+**Backend & Database:**  
+Flask • MySQL • MongoDB (Basics)  
+
+**Cloud & Tools:**  
+• AWS  • Git • GitHub  
+
+**Core Concepts:**  
+DSA • DBMS • OOPs • Computer Networks • Software Engineering  
+
+## 📌 Featured Projects
+
+### 🐆 WildGuard AI
+AI-based wildlife intrusion detection system using computer vision for real-time alert generation.
+
+### 🛕 ISKCON Website (Deployed Project)
+Flask-based dynamic website with MySQL integration and real-world deployment.
+
+### 🍽 Restaurant Discovery Website
+Frontend application integrating real-time API data with filtering and modular architecture.
+
+## 🎯 Currently Focused On
+- Strengthening Data Structures & Algorithms
+- Backend development with scalable architecture
+- Improving database design and optimization
+- Exploring AWS cloud services deeper
+
+## 📫 Connect With Me
+📧 patilsarthak53038@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/sarthak-patil-a8a792373/  
+💻 GitHub: https://github.com/Sarthakpatil3412  
+
+---
+
+⭐ Always building. Always learning.
