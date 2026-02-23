@@ -26,10 +26,12 @@ DSA • DBMS • OOPs • Computer Networks • Software Engineering
 AI-based wildlife intrusion detection system using computer vision for real-time alert generation.
 
 ### 🛕 ISKCON Website (Deployed Project)
-Flask-based dynamic website with MySQL integration and real-world deployment.
-
+Flask-based dynamic website with MySQL integration and real-world deployment.  
+🔗 Repo: https://github.com/SarthakPatil-projects/ahilyanagar2
 ### 🍽 Restaurant Discovery Website
-Frontend application integrating real-time API data with filtering and modular architecture.
+Frontend application integrating real-time API data with filtering and modular architecture.  
+🔗 Repo: https://github.com/SarthakPatil-projects/Restaurant_Discovery-
+
 
 ## 🎯 Currently Focused On
 - Strengthening Data Structures & Algorithms
